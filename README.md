@@ -5,35 +5,14 @@
 ---
 ## Welcome
 
-<p align="center">
-  <video 
-    src="https://github.com/user-attachments/assets/9cda72d4-b654-49b7-809d-8b6e5b0b1bbe"
-    width="600"
-    autoplay
-    loop
-    muted
-    playsinline
-    controlslist="nodownload nofullscreen noremoteplayback"
-    disablepictureinpicture
-  >
-    Your browser does not support the video tag.
-  </video>
-</p>
+# 🎥 Welcome
 
 <p align="center">
-  <video 
-    src="https://github.com/user-attachments/assets/9719aed4-d7da-4fca-91e3-cc9d7c1d529f"
-    width="600"
-    autoplay
-    loop
-    muted
-    playsinline
-    controlslist="nodownload nofullscreen noremoteplayback"
-    disablepictureinpicture
-  >
-    Your browser does not support the video tag.
-  </video>
+
+  <img src="https://github.com/user-attachments/assets/81c50c7f-565c-454f-bf59-09e37c083b62" width="600" alt="Welcome animation 1" />
+  <img src="https://github.com/user-attachments/assets/739ddd3c-eb32-49d2-87b4-612cee1b6290" width="600" alt="Welcome animation 2" />
 </p>
+
 
 ---
 
