@@ -5,10 +5,35 @@
 ---
 ## Welcome
 
-https://github.com/user-attachments/assets/9719aed4-d7da-4fca-91e3-cc9d7c1d529f
+<p align="center">
+  <video 
+    src="https://github.com/user-attachments/assets/9cda72d4-b654-49b7-809d-8b6e5b0b1bbe"
+    width="600"
+    autoplay
+    loop
+    muted
+    playsinline
+    controlslist="nodownload nofullscreen noremoteplayback"
+    disablepictureinpicture
+  >
+    Your browser does not support the video tag.
+  </video>
+</p>
 
-https://github.com/user-attachments/assets/9cda72d4-b654-49b7-809d-8b6e5b0b1bbe
-
+<p align="center">
+  <video 
+    src="https://github.com/user-attachments/assets/9719aed4-d7da-4fca-91e3-cc9d7c1d529f"
+    width="600"
+    autoplay
+    loop
+    muted
+    playsinline
+    controlslist="nodownload nofullscreen noremoteplayback"
+    disablepictureinpicture
+  >
+    Your browser does not support the video tag.
+  </video>
+</p>
 
 ---
 
