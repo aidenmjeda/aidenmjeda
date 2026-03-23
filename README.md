@@ -5,7 +5,7 @@
 ---
 ## Welcome
 
-# 🎥 Welcome
+#  Welcome
 
 <p align="center">
 
